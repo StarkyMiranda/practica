@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hola actualizado xD
+=======
+Hola papus :v
+Que tal?
+>>>>>>> d9c1fc0f564f12622ccaf7ae62188b5a39877a21
